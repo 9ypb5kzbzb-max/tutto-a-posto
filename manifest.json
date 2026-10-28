@@ -1,0 +1,9 @@
+{
+  "name": "Tutto a posto — Assistente personale",
+  "short_name": "Tutto a posto",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f7f4",
+  "theme_color": "#102d35",
+  "description": "Il tuo assistente personale per scadenze, documenti e spese."
+}
